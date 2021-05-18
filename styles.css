@@ -59,15 +59,8 @@
   white-space: nowrap;
 }
 
-#black {
-max-width: 15px;
-
-}
-
-.active {
-background-color: black !important; 
-color:white;
-max-width: 500px !important;
-max-height: 50px !important;
-
+#search {
+  background-color: black;
+  text-align: left;
+  width: 300px;
 }
