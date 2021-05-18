@@ -59,16 +59,15 @@
   white-space: nowrap;
 }
 
-#spacer {
-  padding-top: 20px;
-  padding-left: 60.7%;
+#black {
+max-width: 15px;
+
 }
-#black-box {
-  background-color: black;
-  padding-top: 20px;
-  padding-left: 15%;
-}
-#black-box > img {
-  padding-left: 15px;
-  padding-right: 15px;
+
+.active {
+background-color: black !important; 
+color:white;
+max-width: 500px !important;
+max-height: 50px !important;
+
 }
